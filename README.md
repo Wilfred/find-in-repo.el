@@ -1,5 +1,3 @@
-find-in-repo.el
-===============
-
-Fuzzy find-file for any file in VCS. No dependencies, no
-configuration, no assumptions about how you lay out your projects.
+This project is no longer supported, since
+[find-file-in-repository](https://github.com/hoffstaetter/find-file-in-repository)
+does the same thing, but better.
